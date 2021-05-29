@@ -1,0 +1,15 @@
+.main-button {
+    display: inline-block;
+    width: 196px;
+    height: 60px;
+    line-height: 60px;
+    text-align: center;
+    border-radius: 10px;
+
+    font-family: 'Roboto', sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+    text-decoration: none;
+    background-color: #2f2f2f;
+    color: #fff;
+}

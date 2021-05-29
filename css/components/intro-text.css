@@ -1,0 +1,7 @@
+.intro-text {
+    display: flex;
+    flex-direction: column;
+    margin-right: 270px;
+    width: 425px;
+    height: 267px;
+}
